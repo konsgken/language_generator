@@ -1,0 +1,1 @@
+from corpora.shakespeare import shakespeare_plays, shakespeare_sonnets
